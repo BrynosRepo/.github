@@ -19,3 +19,4 @@ Relevant docs:
 - `docs/tracker/current-baseline.md`
 - `docs/tracker/system-analysis-2026-04-21.md`
 - `docs/tracker/ai-operator-guide.md`
+- `docs/tracker/codex-throughput-guide.md`
