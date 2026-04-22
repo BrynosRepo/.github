@@ -85,6 +85,17 @@ Low trust:
 
 Do not hide these facts.
 
+## Preferred Local Shortcuts
+
+When the task starts fuzzy, prefer the local guided workflows instead of improvising a long intake.
+
+- `Guide Me` is the front door for common work types.
+- `$prompt-pattern-coach` is the step-by-step prompt builder.
+
+These are local environment accelerators, not canonical process documents.
+
+Their durable documentation lives in `docs/tracker/codex-guided-workflows.md`.
+
 ## How To Start Any Session
 
 1. Ask: is this delivery work or incubator/tooling work?

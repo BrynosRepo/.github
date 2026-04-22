@@ -189,6 +189,36 @@ Do a concentrated system analysis of this repo: what is solid, what is weak, wha
 Check whether this work already exists as an issue in the right tracker. If not, create the smallest honest issue, then implement the change.
 ```
 
+## Built-In Guided Shortcuts
+
+Two local skills now exist to reduce prompt friction in this environment.
+
+### `Guide Me`
+
+Use `Guide Me` when you want a curated menu of the common work types first.
+
+It is the fastest front door when the task is still fuzzy.
+
+It should:
+
+- show a short menu of common work
+- route to the right lane
+- ask one short question at a time
+- stop once the work brief is clear
+
+### `$prompt-pattern-coach`
+
+Use `$prompt-pattern-coach` when the task is specifically to build a strong Codex prompt.
+
+It should:
+
+- choose the right prompt pattern
+- fill it question by question
+- catch common pitfalls
+- emit a clean final prompt
+
+For the durable operating note on where these live and when they do or do not belong in project tracking, see `docs/tracker/codex-guided-workflows.md`.
+
 ## What To Hand Codex Up Front
 
 The more this is present, the faster the result:
